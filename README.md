@@ -1,2 +1,2 @@
-# Tableau_Dashboard_Project-1
+# HR_Analysis-Tableau
 HR Diagnosis Dashboard for Employee Attrition Analysis
