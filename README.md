@@ -3,22 +3,25 @@ Interactive HR Analytics Dashboard project that analyzes employee attrition tren
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <h2>📋 Table of Contents</h2>
-•	Project Overview <br>
-•	Objectives <br>
-•	Data Source <br>
-•	Dashboard Interface <br>
-•	Key Insights & Findings <br>
-•	Future Work & Improvements <br>
-•	Conclusion <br>
+
+• <a href='https://github.com/Tamal12322/HR_Analysis-Tableau/blob/main/README.md#-project-overview'>Project Overview </a><br>
+•	<a href='https://github.com/Tamal12322/HR_Analysis-Tableau/blob/main/README.md#-objectives-'>Objectives </a><br>
+•	<a href='https://github.com/Tamal12322/HR_Analysis-Tableau/blob/main/README.md#%EF%B8%8F-data-source-'>Data Source </a><br>
+•	<a href='https://github.com/Tamal12322/HR_Analysis-Tableau/blob/main/README.md#-dashboard-interface-'>Dashboard Interface </a><br>
+•	<a href='https://github.com/Tamal12322/HR_Analysis-Tableau/blob/main/README.md#-key-insights--findings-'>Key Insights & Findings </a><br>
+•	<a href='https://github.com/Tamal12322/HR_Analysis-Tableau/blob/main/README.md#-future-work--improvements-'>Future Work & Improvements </a><br>
+•	<a href='https://github.com/Tamal12322/HR_Analysis-Tableau/blob/main/README.md#-conclusion-'>Conclusion </a><br>
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <h2>📊 Project Overview</h2>
+
 This interactive HR Diagnosis Dashboard was built using employee data to analyze and visualize key HR metrics. It showcases insights on attrition rate, employee demographics, job role and department-wise attrition, and gender/marital status trends. The dashboard helps identify critical areas contributing to employee turnover and supports data-driven HR decision-making. Tools used include Excel for data processing and Tableau for visualization.
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <h2>🎯 Objectives </h2>
+
 1. <ins> Analyze and Monitor Attrition Trends </ins>:
 Identify patterns and trends in employee attrition across departments, job roles, genders, and marital status to uncover critical attrition drivers.<br>
 2. <ins>	Evaluate Workforce Demographics </ins>:
@@ -32,13 +35,16 @@ ________________________________________________________________________________
 
 <h2>🗂️ Data Source </h2>
 
+The project is based on a comprehensive <a href='https://github.com/Tamal12322/HR_Analysis-Tableau/blob/main/HR%20Data.xlsx'>dataset</a> stored in xlsx file which encompasses various aspects of HR attrition data.
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <h2>📶 Dashboard Interface </h2>
 
+
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <h2>🔍 Key Insights & Findings </h2>
+
 1. <ins> Overall Attrition Rate </ins>:
 The overall attrition rate is 16.12%, meaning that approximately 1 in 6 employees have left the organization.<br>
 2. <ins> Department-wise Attrition </ins>:
@@ -53,6 +59,7 @@ Among single employees, attrition is notably higher in both females (47) and mal
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <h2>🔧 Future Work & Improvements </h2>
+
 1. <ins> Predictive Attrition Modeling </ins>:
 Develop a machine learning model to predict employee attrition based on key features like job role, satisfaction level, work-life balance, and overtime — enabling proactive retention strategies.<br>
 2. <ins> Employee Sentiment Integration </ins>:
@@ -64,4 +71,5 @@ ________________________________________________________________________________
 
 
 <h2>✅ Conclusion </h2>
+
 This HR Analytics project effectively identifies key factors contributing to employee attrition through interactive visualizations and detailed data analysis. High attrition in specific departments, roles, and among single employees highlights areas requiring targeted HR interventions. The insights derived can support data-driven decision-making to improve employee retention and overall organizational health.
